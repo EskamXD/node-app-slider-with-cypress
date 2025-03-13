@@ -31,6 +31,7 @@ describe("Testy Galerii Slajdów", () => {
                     });
             });
     });
+    
 
     it("Zweryfikuj, czy opis każdego slajdu jest wyświetlany poprawnie", () => {
         // Sprawdzamy pierwszy slajd – jego tekst nie powinien być pusty
